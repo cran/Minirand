@@ -1,0 +1,8 @@
+
+
+export(Minirand)
+export(blkrandomization)
+export(randbalance)
+export(totimbal)
+
+importFrom("stats", "sd", "var")

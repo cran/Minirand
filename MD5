@@ -1,0 +1,10 @@
+e339f5be32a8139a96ba5e6b067512e6 *DESCRIPTION
+896e0f0cc797e27250bfb7a74d4d65dd *NAMESPACE
+ef9872a2766d94fabef4cfb4e0f03bfb *R/Minirand.R
+0b781d69129aab3277d16e9649fea349 *R/blkrandomization.R
+36796a668fe829c27434e59275664b12 *R/randbalance.R
+ebde977364fbf4de58217ec8253114f4 *R/totimbal.R
+b1673abf6b9e925f1473a41bfa6bc566 *man/Minirand.Rd
+911588dcb9df80a551e341fb6c79b268 *man/blkrandomization.Rd
+b1b5fc72e4009241b474ccc83b1c9c16 *man/randbalance.Rd
+a8d55ad28bf5fc8bd5b24a162d8f8cb8 *man/totimbal.Rd

@@ -1,0 +1,17 @@
+Package: Minirand
+Type: Package
+Title: Minimization Randomization
+Version: 0.1.0
+Date: 2018-09-12
+Author: Man Jin [aut, cre],
+        Adam Polis [aut],
+        Jonathan Hartzel [aut]
+Maintainer: Man Jin <mj2149@gmail.com>
+Description: Randomization schedules are generated in the schemes with k (k>=2) treatment groups and any allocation ratios by minimization algorithms.
+License: GPL (>= 2)
+Encoding: UTF-8
+RoxygenNote: 6.1.0
+NeedsCompilation: no
+Packaged: 2018-10-03 20:10:09 UTC; jinma
+Repository: CRAN
+Date/Publication: 2018-10-16 11:00:02 UTC
