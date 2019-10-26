@@ -13,8 +13,9 @@
 #' @return treatment assignment for the jth subject
 #' @references Pocock and Simon (1975), Sequential Treatment Assignment with Balancing for Prognostic
 #'  Factors in the Controlled Clinical Trial. Biometrics; 103-115.
-#' @references Jin, Polis, and Hartzel (2018), Ensuring Treatment Balance with Minimization
-#'  Randomization and The Implementation. Manuscrpit. 
+#' @references Jin, Polis, and Hartzel (2019). "Algorithms for minimization 
+#' randomization and the implementation with an R package". Communications in Statistics-Simulation 
+#' and Computation; May 2019. 
 #' @examples ntrt <- 3
 #' nsample <- 120
 #' trtseq <- c(1, 2, 3)
