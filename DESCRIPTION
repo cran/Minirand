@@ -1,8 +1,8 @@
 Package: Minirand
 Type: Package
 Title: Minimization Randomization
-Version: 0.1.1
-Date: 2019-10-24
+Version: 0.1.2
+Date: 2020-01-10
 Author: Man Jin [aut, cre],
         Adam Polis [aut],
         Jonathan Hartzel [aut]
@@ -12,6 +12,6 @@ License: GPL (>= 2)
 Encoding: UTF-8
 RoxygenNote: 6.1.0
 NeedsCompilation: no
-Packaged: 2019-10-24 20:10:09 UTC; jinma
+Packaged: 2020-01-10 20:10:09 UTC; jinma
 Repository: CRAN
-Date/Publication: 2019-10-26 04:20:02 UTC
+Date/Publication: 2020-01-10 17:50:20 UTC
