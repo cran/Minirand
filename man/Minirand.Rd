@@ -65,6 +65,6 @@ ratio = ratio, ntrt = ntrt, trtseq = trtseq, method = "Range")
 Pocock and Simon (1975), Sequential Treatment Assignment with Balancing for Prognostic
  Factors in the Controlled Clinical Trial. Biometrics; 103-115.
 
-Jin, Polis, and Hartzel (2018), Ensuring Treatment Balance with Minimization
- Randomization and The Implementation. Manuscrpit.
+Jin, Polis, and Hartzel (2019), "Algorithms for minimization randomization and the implementation with an 
+R package". Communications in Statistics-Simulation and Computation; May 2019. 
 }
